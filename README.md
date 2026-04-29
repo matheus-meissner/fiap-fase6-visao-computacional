@@ -147,4 +147,4 @@ Meu Drive/
 
 ---
 
-*Matheus Meissner | RM 567080 — FIAP Inteligência Artificial — Fase 6 — 2025*
+*Matheus Meissner | RM 567080 — FIAP Inteligência Artificial — Fase 6 — 2026*
