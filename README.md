@@ -69,7 +69,7 @@ O notebook contém todo o passo a passo executado: código comentado, saídas, g
 
 ## 🎬 Vídeo Demonstrativo
 
-> **📹 [Assista no YouTube (não listado)](https://youtube.com/SEU_LINK_AQUI)**
+> **📹 [Assista no YouTube (não listado)](https://youtu.be/T6GcwftA5zk)**
 
 ---
 
